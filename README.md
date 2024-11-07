@@ -6,10 +6,10 @@ Meu nome é Henrique Soares martins
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :Gmail 
 Henriquemartinsblack@gmail.com 
 
 
-@marcelopaludetto
+@Henrique Gmail 
 
 ![descrição do GIF](link GIF do Tenor)
