@@ -22,7 +22,7 @@ posição desafiadora para crescer profissionalmente.
 
 *Habilidades*
 
-- Conhecimentos em [inserir habilidades técnicas, ex.: programação, design]
+- Conhecimentos em programação de Scirpt 
 
 - Habilidades soft skills: comunicação, trabalho em equipe, resolução de problemas
 
