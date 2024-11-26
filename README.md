@@ -18,7 +18,7 @@ posição desafiadora para crescer profissionalmente.
 
 *Educação*
 
-- Alura: Cursando programação de Scirpt
+- Alura: Cursando programação de Script
 
 *Habilidades*
 
