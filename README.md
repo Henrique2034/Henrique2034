@@ -2,7 +2,7 @@ currículo:
 
 Nome: Henrique
 
-Endereço: rua João delgado número 316
+estado de São Paulo 
 
 Telefone: 1195139-0381
 
