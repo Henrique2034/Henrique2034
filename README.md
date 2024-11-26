@@ -1,6 +1,4 @@
-Aqui está um modelo de currículo:
-
-*Informações Pessoais*
+currículo:
 
 Nome: Henrique
 
