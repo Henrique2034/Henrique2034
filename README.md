@@ -1,15 +1,39 @@
-### Boas vindas ao meu perfil :blue_heart
+Aqui está um modelo de currículo:
 
-Meu nome é Henrique Soares martins
+*Informações Pessoais*
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Nome: Henrique
 
-### Você pode entrar em contato comigo :Gmail 
-Henriquemartinsblack@gmail.com 
+Endereço: rua João delgado número 316
 
+Telefone: 1195139-0381
 
-@Henrique Gmail 
+E-mail: 00001116745409sp@al.educacao.sp.gov.br
 
-![descrição do GIF](link GIF do Tenor)
+*Resumo*
+
+Profissional determinado e motivado, buscando minha primeira oportunidade para
+
+aplicar conhecimentos e habilidades adquiridos em cursos. Procurando uma
+
+posição desafiadora para crescer profissionalmente.
+
+*Educação*
+
+- Alura: Cursando programação de Scirpt
+
+*Habilidades*
+
+- Conhecimentos em [inserir habilidades técnicas, ex.: programação, design]
+
+- Habilidades soft skills: comunicação, trabalho em equipe, resolução de problemas
+
+- Idiomas: Português e inglês
+
+*Características Pessoais*
+
+- Determinado e motivado
+
+- Aprendizado rápido
+
+- Boa comunicação
