@@ -6,8 +6,6 @@ estado de São Paulo
 
 Telefone: 1195139-0381
 
-E-mail: 00001116745409sp@al.educacao.sp.gov.br
-
 *Resumo*
 
 Profissional determinado e motivado, buscando minha primeira oportunidade para
